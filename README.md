@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**KaitoSeita/KaitoSeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 自己紹介
+出身 : 愛知県名古屋市    
+専攻 : 情報工学    
+個人開発 : ネイティブアプリ (iOS)   
+Qiita : https://qiita.com/    
+↓制作物リポジトリ↓    
+https://github.com/KaitoSeita/AuthenticationDemoApp    
+https://github.com/KaitoSeita/WebAPIDemoApp
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 技術スタック
+
+![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,javascript,c,python,aws,gcp,github,firebase&theme=light)
+
+# ステータス
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaitoSeita" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KaitoSeita&show_icons=true&theme=transparent" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaitoSeita)](https://github.com/ryo-ma/github-profile-trophy)
