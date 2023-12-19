@@ -10,19 +10,7 @@
 #### https://github.com/KaitoSeita/AuthenticationDemoApp    
 #### 記事閲覧アプリ
 #### https://github.com/KaitoSeita/WebAPIDemoApp
-#### ↓執筆記事↓
-#### API通信でデータ取得してみた
-#### https://qiita.com/kaito-seita/items/dbddf34d56d4f325d48a
-#### Gestureの検知できる領域について
-#### https://qiita.com/kaito-seita/items/73e65882ac8070b526e7
-#### エッジスワイプを実装してみた
-#### https://qiita.com/kaito-seita/items/083831ff99b69a6af207
-#### NavigationStackの戻るボタンをカスタマイズする 
-#### https://qiita.com/kaito-seita/items/5c847be63fd4748b58e3
-#### Lottieを使ってアニメーションを簡単に実装してみた
-#### https://qiita.com/kaito-seita/items/f0327faa5d649da44249
-#### 画像や文字列を型安全で管理するライブラリのR.Swiftを使ってみる 
-#### https://qiita.com/kaito-seita/items/97c656b2daf2c0e1b4be
+
 # 技術スタック
 
 ![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,javascript,c,python,aws,gcp,github,firebase&theme=light)
