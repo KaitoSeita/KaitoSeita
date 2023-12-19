@@ -6,9 +6,9 @@
 #### 個人開発 : ネイティブアプリ (iOS)   
 #### Qiita : https://qiita.com/    
 #### ↓制作物リポジトリ↓
-#### ユーザー認証アプリ
+#### ユーザー認証デモアプリ
 #### https://github.com/KaitoSeita/AuthenticationDemoApp    
-#### 記事閲覧アプリ
+#### Qiita記事閲覧デモアプリ
 #### https://github.com/KaitoSeita/WebAPIDemoApp
 
 # 技術スタック
