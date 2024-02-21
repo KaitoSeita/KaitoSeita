@@ -4,13 +4,6 @@
 #### 出身 : 愛知県名古屋市    
 #### 専攻 : 情報工学    
 #### 個人開発 : ネイティブアプリ (iOS)   
-#### Qiita : https://qiita.com/    
-#### ↓制作物リポジトリ↓
-#### ユーザー認証デモアプリ
-#### https://github.com/KaitoSeita/AuthenticationDemoApp    
-#### Qiita記事閲覧デモアプリ
-#### https://github.com/KaitoSeita/WebAPIDemoApp
-
 # 技術スタック
 
 ![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,javascript,c,python,aws,gcp,github,firebase&theme=light)
