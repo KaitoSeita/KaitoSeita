@@ -3,7 +3,7 @@
 # 自己紹介
 #### 出身 : 愛知県名古屋市    
 #### 専攻 : 情報工学    
-#### 個人開発 : ネイティブアプリ (iOS)   
+#### メイン : ネイティブアプリ (iOS)   
 # 技術スタック
 
 ![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,javascript,c,python,aws,gcp,github,firebase&theme=light)
